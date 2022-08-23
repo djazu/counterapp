@@ -15,5 +15,5 @@ function save() {
 }
 
 function reset(){
-    saveEl.textContent = "Previous entriess: ";
+    saveEl.textContent = "Previous entries: ";
 }
